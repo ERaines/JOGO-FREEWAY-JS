@@ -10,7 +10,7 @@ Este projeto foi desenvolvido durante o curso "Iniciante em JS 2" do site [Alura
  
 ## Como jogar
 
-Basta clonar este projeto e abrir o arquivo index.html com seu navegador.
+Basta clonar o projeto em sua maquina e abrir o arquivo index.html com seu navegador.
 
 
 ## Exemplo
