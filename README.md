@@ -1,18 +1,20 @@
-# JOGO-FREEWAY-JS
+#  Freeway Game (JavaScript)
 
-Recriando o clássico jogo Freeway em JavaScrip.
-
-
-## Objetivo do Projeto
-
-Este projeto foi desenvolvido durante o curso "Iniciante em JS 2" do site [Alura](https://www.alura.com.br/)
- 
- 
-## Como jogar
-
-Basta clonar o projeto em sua maquina e abrir o arquivo index.html com seu navegador.
-
-
-## Exemplo
+A simple web-based recreation of the classic **Freeway** game, built using HTML, CSS, and JavaScript. Help the chicken cross the road while avoiding the cars!
 
 <img src="https://github.com/ERaines/JOGO-FREEWAY-JS/blob/main/imagens/print.PNG" alt="print" width="400"/>
+
+## Features
+
+- Player-controlled character (chicken) using arrow keys
+- Moving obstacles (cars) with collision detection
+- Score system that rewards successful crossings
+- Simple retro-style graphics
+
+##  Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+
